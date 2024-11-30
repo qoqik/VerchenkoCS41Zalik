@@ -10,9 +10,8 @@
 ![image](https://github.com/user-attachments/assets/0a40d5e7-4273-497c-8c89-1ad6ca2a9eb8)
 ------
 UML-діаграма
-
-![strategy_pattern_diagram](https://github.com/user-attachments/assets/c9e350cd-19a1-4016-8f3d-6a9b1a8e3a71)
-
+![image](https://github.com/user-attachments/assets/362981d1-8a06-4159-91fe-d83a16625145)
+![image](https://github.com/user-attachments/assets/311f1b3d-14cd-457e-8508-cfc3e91fe445)
 
 Шаблон Strategy використовується для організації чотирьох важливих частин:
 
